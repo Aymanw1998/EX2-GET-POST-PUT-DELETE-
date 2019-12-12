@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "ticketNum":21212,
+        "client": "Rick Astley",
+        "moment": "25/06/2019"
+    },
+    {
+        "id": 2,
+        "ticketNum":542456,
+        "client": "Selena Munayer",
+        "moment": "25/06/2022"
+    },
+    {
+        "id": 3,
+        "ticketNum":478954,
+        "client": "Selena Soso",
+        "moment": "7/04/2010"
+    }
+]
